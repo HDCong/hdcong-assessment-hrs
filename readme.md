@@ -17,3 +17,6 @@ For **query-services**: use search index engine (used elastic search), and also 
 ### To start application
 `docker-compose up -d`
 
+comman-service port: 8080
+query-service port: 8081
+
